@@ -8,6 +8,12 @@ fields:
     required: false
   label: Heading
   description: The text displayed in the hero
+- name: hello_bar
+  type: text
+  config:
+    required: false
+  label: Hello bar
+  description: Hello bar
 - name: maxWidthPX
   type: number
   label: Max Width
